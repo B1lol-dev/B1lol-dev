@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @B1lol-dev
+- 👀 I’m interested in programming and game development.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking for opportunities to collaborate on various projects.
+- 📫 How to reach me: Telegram: @JustB1lol
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I’m a human
