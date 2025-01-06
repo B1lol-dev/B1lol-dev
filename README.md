@@ -127,6 +127,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/b1lol-dev/b1lol-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/B1lol-dev/B1lol-dev/blob/main/output/snake.svg" alt="Snake animation" />
 
 ###
