@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! I'm Bilol</h2>
+
+###
+
+<h2 align="center">Front-end developer | Game-dev</h2>
 
 ###
 
