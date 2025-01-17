@@ -126,11 +126,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/b1lol-dev/b1lol-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/b1lol-dev/b1lol-dev/output/snake.svg" alt="Snake animation"/>
 
 ### ✍️ Random Dev Quote
 
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote"/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" width="90%"/> 
+</div>
 
 ###
 
