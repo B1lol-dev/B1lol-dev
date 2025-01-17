@@ -1,0 +1,19 @@
+{
+  "name": "b1lol-dev",
+  "version": "1.0.0",
+  "description": "<h2 align=\"left\">Hi 👋! I'm B1lol-dev</h2>",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B1lol-dev/B1lol-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B1lol-dev/B1lol-dev/issues"
+  },
+  "homepage": "https://github.com/B1lol-dev/B1lol-dev#readme"
+}
