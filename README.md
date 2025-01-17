@@ -130,7 +130,7 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote"/>
 
 ###
 
