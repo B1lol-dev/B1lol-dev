@@ -138,7 +138,7 @@
 
 <div align="center">
 <!--   <img src="https://github-profile-trophy.vercel.app?username=b1lol-dev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-  <img src="https://github-trophies.vercel.app/?username=b1lol-dev&theme=onedark" height="250" alt="trophy graph" />
+  <img src="https://github-trophies.vercel.app/?username=b1lol-dev&theme=onedark&no-bg=true" height="250" alt="trophy graph" />
 </div>
 
 ###
