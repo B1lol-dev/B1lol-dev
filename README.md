@@ -144,6 +144,12 @@
 ###
 
 <div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=b1lol-dev&limit=5&combine_all_yearly_contributions=true&theme=dark" alt="stats" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b1lol-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
