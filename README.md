@@ -11,6 +11,7 @@
 ###
 
 <div align="center">
+  <h1>Profile Counter</h1>
   <img src="https://profile-counter.glitch.me/b1lol-dev/count.svg?"  />
 </div>
 
