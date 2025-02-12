@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <h4>Profile Visits</h4>
+  <h4>👁️ Profile Visits</h4>
   <img src="https://profile-counter.glitch.me/b1lol-dev/count.svg?"  />
 </div>
 
