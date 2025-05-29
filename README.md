@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🎓 I'm a Software Engineer passionate about crafting innovative solutions and pushing technological boundaries.  <br>💡 I am currently focused on learning Go to further enhance my programming skills and broaden my expertise.  <br>🌟 I thrive on exploring new technologies, optimizing performance, and solving complex challenges to build impactful and scalable software.  <br>🚀 My mission is to combine creativity and engineering expertise to develop solutions that inspire and drive progress in the tech world.</h4>
+<h4 align="left">🎓 I'm a Software Engineer passionate about crafting innovative solutions and pushing technological boundaries.  <br>💡 I am currently focused on learning Dart and flutter to further enhance my programming skills and broaden my expertise.  <br>🌟 I thrive on exploring new technologies, optimizing performance, and solving complex challenges to build impactful and scalable software.  <br>🚀 My mission is to combine creativity and engineering expertise to develop solutions that inspire and drive progress in the tech world.</h4>
 
 ###
 
